@@ -1,7 +1,6 @@
-# Nature-inspired-metaheuristics
-## Implement Nature-Inspired Metaheuristics to optimize NP-Hard 0/1 Knapsack Problem
+# Nature-inspired-metaheuristics : Implement Nature-Inspired Metaheuristics to optimize NP-Hard 0/1 Knapsack Problem
 
-### Introduction 
+## Introduction 
 Nature Inspired Computing is a branch of Computer Science that strives to develop and improve computing techniques by observing how nature behaves to solve complex problems.  Nature Inspired Computing has led to groundbreaking research and created new branches like neural networks, evolutionary computation, and artificial intelligence. 
 
 Swarm Optimization is a computational method that optimizes a problem by generating a population of candidate solutions and moving these candidates in a search space according to a mathematical formula.  Eventually the swarm moves to the best solutions. Bat Algorithm is based on swarm intelligence heuristic search algorithm.  It is a metaheuristic algorithm for global optimization. The algorithm is inspired by the echolocation of bats when hunting for prey, with varying loudness, frequency, pulse rates of emission, distance, and speed. The bat algorithm can be implemented on combinatorial optimization problems. These are problems where an optimal solution must be identified from a finite set of solutions. These solutions are either discrete or can be made discrete.
@@ -10,11 +9,11 @@ Swarm Optimization is a computational method that optimizes a problem by generat
 
 Nature Inspired Computing is an important field that efficiently helps implement nature inspired algorithms onto optimization problems. In this report, we will be implementing Binary Bat Algorithm to 0-1 Knapsack Problem to find the optimal solution.
 
-### Bat Algorithm
+## Bat Algorithm
 The Bat Algorithm is a nature inspired algorithm which was developed by Xin-She Yang in 2010. It is based on the hunting behavior of bats at night. Bats use echolocation to detect prey, avoid obstacles and locate their resting location. These bats emit high-pitched sounds and interpret their echoes to determine the distance and direction of targets. Each bat has a frequency (f), position (x), velocity (v), loudness (A) and pulse rate (r).
 
 
-### 0/1 Knapsack Problem
+## 0/1 Knapsack Problem
 0/1 Knapsack Problem or Binary Knapsack Problem is a NP-Hard combinatorial problem that aims to maximize profits from a knapsack without exceeding its maximum capacity. Items of different price and weight will have to be selected to be put in the knapsack while maintaining a weight that doesn’t exceed a constant and at the same time obtain the maximum possible total price.
 
 ## Experimental Setup
